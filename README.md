@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @si82k1 (Sirisha Bommagunta)
+- 👀 I’m interested in backend development, especially with PHP and Laravel.
+- 🌱 I’m currently learning advanced Laravel techniques, API integration, and exploring cloud deployment.
+- 💞️ I’m looking to collaborate on open-source projects related to PHP, Laravel, and API development.
+- 📫 How to reach me: [bsirisha511@gmail.com](mailto:bsirisha511@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sirisha-bommagunta-139750195/)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love solving complex backend challenges and optimizing API performance!
